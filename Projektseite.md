@@ -103,7 +103,7 @@ Der MQ-135 Gas Sensor bestimmt die Konzentration von Gasen und beruft sich auf c
   <img src="images/wiring-MQ135-module.png" width="1200" alt="Bodenfeuchtigkeitssensor">
   </details>
  
-#### *Der Taster*
+#### <a href="https://www.conrad.de/de/p/te-connectivity-1825910-2-drucktaster-24-v-dc-0-05-a-1-x-aus-ein-tastend-l-x-b-x-h-6-x-6-x-4-3-mm-1-st-701749.html?hk=SEM&WT.mc_id=google_pla&gclid=Cj0KCQiA14WdBhD8ARIsANao07gZZK9vtOoLXMF0hpUxqycq6qi0NnIvg7xLss9CvA5ZXasF6YGHFTYaAikGEALw_wcB">*Der Taster*</a>
 Um die Benutzerfreundlichkeit zu erhöhen, haben wir einen noch einen Taster dazugenommen. Denn dieser fungiert als Impulsgeber, um einen neuen Prozess zu aktivieren. Zudem springt der Taster nachdem der Prozess durchlaufen ist, wieder zurück in seine Ausgangsstellung. Bei ProPlant wird im ungedrückten Zustand nacheinander der Zustand jedes Einflussfaktors angezeigt. Somit können alle Reguliergrößen im Blick behalten werden. Möchte man weitere Informationen über die konkrete Lage erlangen, kann der Taster gedrückt gehalten werden. Nun wird statt einer Auswertung von gut oder schlecht der konkrete Messwert wie die Temperatur in Grad Celsius angezeigt. Für die anderen Einflussgrößen werden Prozente wiedergegeben. So kann der Benutzer bei Bedarf feststellen, wie großer Handlungsbedarf tatsächlich besteht. Wurden alle Werte angezeigt, wird wie gewohnt wieder der Zustand der Pflanze auf dem Display wiedergegeben.
    <details>
    <summary>Konkrete Verkabelung</summary>
@@ -296,7 +296,7 @@ void loop()
 
   // Wenn der Taster gedrückt wird, alle reinen Werte der Sensoren anzeigen (selbe Reihenfolge)
   if (SchalterZustand == 1)
-    {
+  {
     // Text "ProPlant soil" in Zeile 0 des LCD-Displays ausgeben
     lcd.setCursor (0,0);
     lcd.print ("ProPlant soil");
@@ -423,7 +423,7 @@ void loop()
   Serial.print(String("AirCO2: ")+(MQValue)+"PPM\n");
 
   if (SchalterZustand == 0)
-    {
+  {
     lcd.setCursor(0,0);
     lcd.print ("ProPlant soil");
     lcd.setCursor(0,1);
@@ -457,7 +457,7 @@ void loop()
     delay(3000);
   }
   if (SchalterZustand == 1)
-    {
+  {
     lcd.setCursor (0,0);
     lcd.print ("ProPlant soil");
     lcd.setCursor(0,1);
