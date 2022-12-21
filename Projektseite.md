@@ -3,9 +3,9 @@
 
 <img src="images/proplant_banner.png" width="1200" alt="Proplant-Banner">
 
-➜ <a href="xxxxxx">**Entwicklungsprozess** (Stundenprotokolle)</a>
+➜ <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md">**Entwicklungsprozess** (Stundenprotokolle)</a>
 
-➜ <a href="xxxxxx">**Video**</a> 
+➜ <a href="https://youtu.be/4X6rJNSYpKE">**YouTube-Video**</a> 
 
 ## 1. Einleitung
 <details>
@@ -486,7 +486,7 @@ void loop()
 }
 ```  
  
-#### <a href="xxx"><img src="images/youtube-logo.png" width="20" alt="YouTube-Logo"></a><a href="xxx"> *Video des funktionsfähigen Endproduktes*</a>
+#### <a href="https://youtu.be/4X6rJNSYpKE"><img src="images/youtube-logo.png" width="20" alt="YouTube-Logo"></a><a href="https://youtu.be/4X6rJNSYpKE"> *Video des funktionsfähigen Endproduktes*</a>
 Aufgrund von fehlenden Breadboards und Kabeln konnten wir die Umsetzung der Verkabelung nicht noch weiter optimieren. Das Produkt als Ganzes im Video stellt momentan einen Prototypen dar. So sind die wichtigsten Grundgedanken jedoch verankert: Eine Powerbank zur Mobilität, das LCD eingelassen in der Hülle für optische Einheit und
 das Außenliegen von Sensoren. Der Bodenfeuchtigkeitssensor kann in den Boden der Pflanze gesteckt werden und die Luftsensoren erfassen außerhalb der Produkthülle die Daten nähstmöglich zur Pflanze.
 
