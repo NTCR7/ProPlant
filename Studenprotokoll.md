@@ -32,6 +32,8 @@
 </tr>
     </table>
 
+<a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#%C3%BCbersicht">🔙zurück zur Projektseite</a>
+
 ## Stunde 22.08.22
 Zuerst haben wir uns mit GitHub vertraut gemacht. Somit haben wir unser Repository für unser Stundenprotokoll erstellt und uns für ein Layout entschieden. Dafür haben wir uns eine Tabelle mit weiterführenden Links zu den einzelnen Stunden zur Hand genommen. Somit kann man über die <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#%C3%BCbersicht">Übersicht</a> vom Anfang der Seite schnell und einfach zu den Ergebnissen einzelner Stunden navigieren. Danach haben wir erste Ideen zu unserem Projekt in Form einer Mindmap gesammelt.
 <details>
