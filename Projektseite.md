@@ -3,7 +3,7 @@
 
 <img src="images/proplant_banner.png" width="1200" alt="Proplant-Banner">
 
-➜ <a href="https://github.com/NTCR7/ProPlant/blob/d34f1d9e749d0e4c48da18ffb45811cc4c291566/Studenprotokoll.md">**Entwicklungsprozess** (Stundenprotokolle)</a>
+➜ <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md">**Entwicklungsprozess** (Stundenprotokolle)</a>
 
 ➜ <a href="https://youtu.be/4X6rJNSYpKE">**YouTube-Video**</a> 
 
