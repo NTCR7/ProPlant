@@ -7,33 +7,33 @@
 <table align="center">
      
 <tr>
-    <td> <a href="x"> Stunde 22.08.22 </a></td>
-    <td> <a href="x"> Stunde 25.08.22 </a></td>
-    <td> <a href="x"> Stunde 29.08.22 </a></td>
-    <td> <a href="x"> Stunde 05.09.22 </a></td>
-    <td> <a href="x"> Stunde 08.09.22 </a></td>
-    <td> <a href="x"> Stunde 12.09.22 </a></td>
-    <td> <a href="x"> Stunde 19.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-220822"> Stunde 22.08.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-250822"> Stunde 25.08.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-290822"> Stunde 29.08.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-050922"> Stunde 05.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-080922"> Stunde 08.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-120922"> Stunde 12.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-190922"> Stunde 19.09.22 </a></td>
 </tr>
 <tr>
-    <td> <a href="x"> Stunde 22.09.22 </a></td>
-    <td> <a href="x"> Stunde 26.09.22 </a></td>
-    <td> <a href="x"> Stunde 06.10.22 </a></td>
-    <td> <a href="x"> Stunde 24.10.22 </a></td>
-    <td> <a href="x"> Stunde 03.11.22 </a></td>
-    <td> <a href="x"> Stunde 07.11.22 </a></td>
-    <td> <a href="x"> Stunde 14.11.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-220922"> Stunde 22.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-260922"> Stunde 26.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-061022"> Stunde 06.10.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-241022"> Stunde 24.10.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-031122"> Stunde 03.11.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-071122"> Stunde 07.11.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-141122"> Stunde 14.11.22 </a></td>
 </tr>
 <tr>
-    <td> <a href="x"> Stunde 17.11.22 </a></td>
-    <td> <a href="x"> Stunde 21.11.22 </a></td>
-    <td> <a href="x"> Stunde 12.12.22 </a></td>
-    <td> <a href="x"> Stunde 12.12.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-171122"> Stunde 17.11.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-211122"> Stunde 21.11.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-121222"> Stunde 12.12.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-151222"> Stunde 12.12.22 </a></td>
 </tr>
     </table>
 
 ## Stunde 22.08.22
-Zuerst haben wir uns mit GitHub vertraut gemacht. Somit haben wir unser Repository für unser Stundenprotokoll erstellt und uns für ein Layout entschieden. Dafür haben wir uns eine Tabelle mit weiterführenden Links zu den einzelnen Stunden zur Hand genommen. Somit kann man über die <a href="xxx">Übersicht</a> vom Anfang der Seite schnell und einfach zu den Ergebnissen einzelner Stunden navigieren. Danach haben wir erste Ideen zu unserem Projekt in Form einer Mindmap gesammelt.
+Zuerst haben wir uns mit GitHub vertraut gemacht. Somit haben wir unser Repository für unser Stundenprotokoll erstellt und uns für ein Layout entschieden. Dafür haben wir uns eine Tabelle mit weiterführenden Links zu den einzelnen Stunden zur Hand genommen. Somit kann man über die <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#%C3%BCbersicht">Übersicht</a> vom Anfang der Seite schnell und einfach zu den Ergebnissen einzelner Stunden navigieren. Danach haben wir erste Ideen zu unserem Projekt in Form einer Mindmap gesammelt.
 <details>
     <summary>📝🧠Mindmap zur Ideensammlung</summary>
     <img src="images/mindmap_proplant.jpeg" width="500" alt="Mindmap vom Proplant">
@@ -49,21 +49,18 @@ Zuerst haben wir uns mit GitHub vertraut gemacht. Somit haben wir unser Reposito
 
 **Namensgebung:** Da dies alles somit sehr fortschrittlich bzw. "professionell" sein wird, setzt sich unser Projektname bzw. Produktname aus *"pro"* 👨‍💻 (professional) und *"plant"* 🪴 zusammen - **ProPlant**!
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 25.08.22
 <img src="images/MySQL_logo.png" width="250" alt="MySQL Logo">
 Wir haben uns vor allem über MySQL, ein relationales Datenbankverwaltungssystem, informiert. Dieses System soll später für uns die Daten der Sensoren an der Pflanze verarbeiten. Problem ist momentan noch die Frage, worauf die Datenbank später laufen soll. Wir haben uns auch schonmal nach Bauteilen, besonders nach den Sensoren umgeschaut und des Weiteren kleinere Verbesserungen an unserem Repository vorgenommen. Unsere Sensoren werden die Feuchtigkeit des Bodens, als auch die Feuchtigkeit der Luft bestimmen. Die Temperatur wollen wir ebenfalls überwachen und auch die Luftqualität durch einen CO₂-Sensor, welche für uns Menschen wichtig ist. Eventuell kann man auch noch die Sonnenintensität bestimmen, aber dabei müssen wir noch schauen, ob Sensoren verfügbar sind. 
 
 ✅Wir haben aber schon einmal den 💧 Feuchtigkeitssensor (<a href="https://www.reichelt.de/de/de/entwicklerboards-feuchtesensor-bodenfeuchte--debo-cap-sens-p223620.html?PROVID=2788&gclid=EAIaIQobChMIpLGoyrO1-wIV7hkGAB0JYw15EAQYAyABEgJH_vD_BwE&&r=1">Capacitive Soil Moisture Sensor v2.0</a>) bestellt.
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 29.08.22
 <img src="images/php_logo.png" width="250" alt="php logo">
 
 An diesem Tag haben wir uns weiterhin über die benötigten Programme informiert. Dabei haben wir uns angeschaut, wie man eine MySQL Datenbank über PhpMyAdmin erstellt und seine weiteren Funktionen. Außerdem wollen wir nun die Daten direkt auf dem Raspberry Pi auswerten, speichern und in die Website speisen. 
 Darüber hinaus haben wir uns noch Gedanken über einen simplen Slogan gemacht. Um direkt im Englischen zu bleiben, wurde der Slogan "Alles für die Pflanze!" zu "all about plants" geändert. Somit fehlt uns noch ein Logo für unser Projekt "**ProPlant** - *all about plants*".
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 05.09.22
 Nach der Informationssammlung in den letzten Stunden haben wir ein 1. Konzept erstellt, wie wir das Projekt letztendlich technisch umsetzen wollen:
 <details>
@@ -72,7 +69,6 @@ Nach der Informationssammlung in den letzten Stunden haben wir ein 1. Konzept er
 </details>
 Dieses zeigt den Weg der Daten vom Sensor zur Website. Wir hoffen, ein Raspberry Pi zu erhalten, um die Datenbank und die Website auf diesem laufen zu lassen und somit alles an einem Ort verarbeiten zu können. Wir haben außerdem schon eine Möglichkeit gefunden, unsere Daten in 📈 Diagrammen darzustellen. Dabei kann uns der Open Source-Code von <a href="https://developers-dot-devsite-v2-prod.appspot.com/chart/interactive/docs/gallery/linechart.html">Google Charts</a> helfen.
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 08.09.22
 <img src="images/arduino_logo.png" width="250" alt="arduino logo">
 Am heutigen Tag wollten wir uns den Raspberry Pi holen. Herr Buhl riet uns jedoch aufgrund der Schwierigkeit von dessen Benutzung ab und empfiehl stattdessen ein unkomplizierteres Projekt mit einem Arduino UNO. Leider wird es dabei schwieriger etwas auf einer Website anzuzeigen, aber wir werden dann dort erst einmal nur Daten vom Sensor auswerten und auf einem LCD anzeigen lassen.
@@ -88,7 +84,6 @@ Zuhause konnten wir dann letztendlich ein finales Logo anfertigen.
     <img src="images/proplant-logo.png" width="250" alt="Proplant-Logo">
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 12.09.22
 Für unser Projekt haben wir uns nun das Auslesen der Daten als Alternative mit einem Arduino UNO nun weiter angeschaut. Dafür hatten wir bereits reichlich recherchiert und den <a href="https://www.reichelt.de/de/de/entwicklerboards-feuchtesensor-bodenfeuchte--debo-cap-sens-p223620.html?PROVID=2788&gclid=EAIaIQobChMIpLGoyrO1-wIV7hkGAB0JYw15EAQYAyABEgJH_vD_BwE&&r=1">Capacitive Soil Moisture Sensor v2.0</a> an den Arduino mithilfe folgender Verkabelung angeschlossen. 
 <details>
@@ -110,11 +105,9 @@ void loop()
 }
 ```
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 19.09.22
 Nun haben wir die Werte vorliegen und können Sie am PC im seriellen Monitor anzeigen lassen. Jedoch ist dies für den alltäglichen Gebrauch äußert unpraktisch, da man die Pflanze erst zum PC tragen muss, um Daten über den seriellen Monitor auslesen zu können. Daher möchten wir die Werte inzwischen auf einem Display anzeigen lassen. Dazu haben wir uns für ein <a href="https://amzn.eu/d/iY7ifi8"> 16x2 LCD Modul Display</a> entschieden. Die Werte sollen darauf aber in Prozenten angezeigt werden, denn Pflanzen benötigen eine Bodenfeuchtigkeit von 20%-60%.
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 22.09.22
 Wir haben heute das <a href="https://amzn.eu/d/iY7ifi8"> 16x2 LCD Modul Display</a> erhalten. Vorerst wollen wir aus den Zahlenwerten des Sensors noch Prozente erstellen - von 100% (extrem nass) zu 0% (trocken). Dazu testeten wir, welchen Wert der Sensor anzeigte, wenn wir ihn in Wasser (231) hielten und wenn er trocken (231) lag. Durch diese Werte wird der Sensor kalibriert und muss später nochmal vorgenommen werden, wenn wir den Sensor in der Pflanzenerde haben. 
 Der Code für diese "Kalibrierung":
@@ -154,7 +147,6 @@ Danach haben wir es direkt getestet, einmal den Sensor im Wasser und im Trocken 
 </details>
 ✅Die Testergebnisse waren bis auf leichte Abweichungen erfolgreich!
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 26.09.22
 Nachdem der Test mit Prozenten erfolgreich verlaufen war, haben wir uns nun mit der Anzeige auf einem Display beschäftigt. Dafür haben wir die <a href="https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/"> LiquidCristal library</a> miteinbezogen. 
 <details>
@@ -205,7 +197,6 @@ Das Potentiometer auf der Rückseite war das Problem, während wir unseren Code 
 Nachdem wir die Helligkeit etwas herunterregelten wurde endlich unser Test-Text angezeigt - das Display funktioniert!
 <img src="images/lcd_test.jpg" width="350" alt="LCD back">
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 06.10.22
 Pflanzen sind auf eine bestimmte Bodenfeuchtigkeit angewiesen, bei welcher sie am besten gedeihen. Diese liegt optimalerweise zwischen 20% und 60%. Dementsprechend haben wir ein Intervall festgelegt, wobei das Display "good" anzeigt. Bei unserem ersten Versuch war der Befehl jedoch nicht eindeutig, sodass bei einer schlechten Bodenfeuchtigkeit fälschlicherweise "good !" angezeigt wurde. Die Auswirkungen auf das Display und der fehlerhafte Code sahen aus wie folgt:
 
@@ -346,7 +337,6 @@ delay(500);
 	
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 24.10.22
 Nun möchten wir den <a href="https://amzn.eu/d/cYdimBH">DHT22</a> noch anschließen. Dieser soll insbesondere die Luftfeuchtigkeit anzeigen, da einige Pflanzen eine ganz bestimmte Luftfeuchtigkeit benötigen. Er kann aber auch die Lufttemperatur anzeigen, welches wir somit ebenfalls zu ProPlant hinzufügen können. Die Temperatur spielt nämlich vor allem im Winter eine wichtige Rolle für die Pflanze, da diese schon bei niedrigen Temperaturen sterben können.
 Die Verkabelung war wie folgt:
@@ -441,7 +431,6 @@ void loop()
     <img src="images/lcd_DHT_temprature.jpg" width="350" alt="Anzeige von DHT-Temperatur auf LCD">
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 03.11.22
 Heute haben wir das <a href="https://amzn.eu/d/gWZVOSx">MQ-135 air quality module</a> angeschlossen.
 <details>
@@ -548,14 +537,12 @@ void loop()
     <img src="images/lcd_MQ.jpg" width="350" alt="Anzeige von MQ-135 auf LCD">
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 07.11.22
 Wir haben nun sehr viele Werte vorliegen, welche dauerhaft auf dem LCD durchwechseln, jedoch sind manche Werte wichtiger als andere für die Pflanze. Am wichtigsten ist dabei "ProPlant soil" und somit die Bodenfeuchtigkeit. Daher wollen wir mittlerweile mithilfe eines Taster nur, die Werte von "ProPlant air", also die Feuchtigkeit, die Temperatur und die Qualität der Luft, wenn vorher ein Taster gedrückt wurde. Ansonsten soll dauerhaft die Bodenfeuchtigkeit angezeigt werden,zu welcher das LCD auch wieder wechselt, nachdem einmal alle 3 Werte angezeigt werden.
 
 In dieser Stunde haben wir also versucht, den Taster anzuschließen. Dazu haben wir erst einmal im Internet recherchiert. Dabei landeten wir auf <a href="https://starthardware.org/lektion-12-der-taster-und-if-abfrage/">starthardware.org</a> und anderen Webseiten, welche uns sehr merkwürdige Lösungswege anboten.
 Daher scheiterten wir in dieser Stunde leider mit dem Anschluss und Code des Tasters. Wir kamen zu Lösungen, bei welchen im seriellen Monitor angezeigt wurde, ob der Taser gedrückt ist oder gerade aus ist, aber nicht auf einfachem Wege, sondern mithilfe irgendwelcher libaries. Den Code und die genauen Quellen haben wir somit direkt wieder verworfen, da es zusätzlich zu dem aufwendigen Code nicht funktionierte. Wir konnten es aber Herr Buhl kurz zeigen, welcher uns auf einen einfacheren Lösungsweg verwies - ein Taster, welcher mithilfe der Abfrage einer Spannung funktioniert. Dadurch wird ein Strom nachgewiesen und somit, dass der Taster gedrückt ist.
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 14.11.22
 Heute haben den Taster mit einer neuen Verkabelung an den Arduino angeschließen können.
 <details>
@@ -600,7 +587,6 @@ Bei Drücken des Tasters wurde nun "ON" im seriellen Monitor angezeigt, im unged
     <img src="images/taster_on_off.jpg" width="750" alt="ON & OFF im seriellen Monitor">
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 17.11.22
 Da wir inzwischen das Drücken des Tasters an Variablen geknüpft haben, was wir durch den seriellen Monitor beweisen konnten, möchten wir das Drücken nun an die drei Werte der Luft knüpfen.
 
@@ -751,7 +737,6 @@ if (SchalterZustand == 1)
 
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 21.11.22
 Am heutigen Tag haben wir uns der Erstellung unser Verkablung in <a href="https://fritzing.org/">fritzing</a> gewidmet. Somit können wir unsere Verkabelung übersichtlich visualisieren.
 
@@ -760,11 +745,9 @@ Am heutigen Tag haben wir uns der Erstellung unser Verkablung in <a href="https:
     <img src="images/full_wiring.jpg" width="1200" alt=">gesamte Verkabelung (keine echte Wiedergabe)">
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 12.12.22
 Krankheitsbedingter Ausfall von beiden Projektteilnehmern
 
-<a href="xxx">⬆️zur Übersicht</a>
 ## Stunde 15.12.22
 Diesen Tag haben wir Überarbeitungen am Stundenprotokoll, der Projektseite und dem Code gewidmet.
 
@@ -915,4 +898,4 @@ if (SchalterZustand == 1)
 
 </details>
 
-<a href="xxx">⬆️zur Übersicht</a>
+<a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#%C3%BCbersicht">⬆️zur Übersicht</a>
