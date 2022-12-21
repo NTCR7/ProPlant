@@ -1,4 +1,4 @@
-# # ProPlant - Projektseite
+# ProPlant - Projektseite
 **Ein Projekt von Nele und Tim Ratzka**
 
 <img src="images/proplant_banner.png" width="1200" alt="Proplant-Banner">
